@@ -1,0 +1,11 @@
+[package]
+name = "kmermask_em"
+version = "0.1.0"
+authors = ["Andre L. Martins <alm253@cornell.edu>"]
+
+[dependencies]
+rand = "0.3"
+rayon = "0.6"
+docopt = "0.7"
+rustc-serialize = "0.3"
+tabwriter = "1"
